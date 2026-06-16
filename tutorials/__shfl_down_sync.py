@@ -29,7 +29,6 @@ tree you wrote in softmax_reduce_cute.py with something faster and barrier-free.
 Run:  python3 tutorials/__shfl_down_sync.py
 """
 
-import cutlass
 import cutlass.cute as cute
 from cutlass.cute.runtime import from_dlpack
 
