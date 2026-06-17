@@ -1,4 +1,5 @@
-### an archive for my learnings in cute-dsl
+### cuTeDSL archives
 
 > `playground` is token generated examples to grasp cuTeDSL quickly 
 
+the `/tutorial` includes examples of the cuTeDSL primitives.
